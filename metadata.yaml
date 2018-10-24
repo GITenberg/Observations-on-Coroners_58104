@@ -1,11 +1,16 @@
 _repo: Observations-on-Coroners_58104
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58104-h/images/cover.jpg
 creator:
   author:
     agent_name: Hewitt, William, active 19th century
     gutenberg_agent_id: '43161'
     url: http://www.gutenberg.org/2009/agents/43161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58104#Observations-on-Coroners
 gutenberg_issued: '2018-10-15'
 gutenberg_type: Text
 identifiers:
